@@ -28,8 +28,8 @@ body{
     border-radius: 1rem;
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0,1);
-    font-size: 8vmin;
-    color: chartreuse;
+    font-size: 10vmin;
+    color: rgb(199, 16, 16);
     background-color: #ffffc7
 }
 #reset-btn{
@@ -56,7 +56,7 @@ body{
 }
 
 .msg-container{
-    height: 100vmin;
+    height: 120vmin;
     display: flex;
     justify-content: center;
     align-items: center;
