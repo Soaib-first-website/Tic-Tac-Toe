@@ -67,4 +67,5 @@ body{
     display: none;
 }
 h1{font-size: 15vmin;
-color:rgb(199, 16, 16)}
+color: yellow;
+font-weight: bold;}
