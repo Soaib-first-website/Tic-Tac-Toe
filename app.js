@@ -53,7 +53,7 @@ const enableBoxes = () => {
 
 
 const shoWinner = (winner) => {
-    msg.innerText = `Congratulations, Winner is ${winner}`;
+    msg.innerText = `বিজয়ী হচ্ছে ${winner}`;
     msgContainer.classList.remove("hide");
     disableBoxes();
 };
