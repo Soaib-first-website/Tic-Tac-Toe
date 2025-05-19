@@ -26,10 +26,10 @@ const resetGame = () => {
 boxes.forEach((box) => {
     box.addEventListener("click", () => {
         if(turnO){
-            box.innerText = "Safwan";
+            box.innerText = "O";
             turnO = false;
         } else {
-            box.innerText = "Mehra";
+            box.innerText = "X";
             turnO = true;
         }
         box.disabled = true;
