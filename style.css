@@ -29,8 +29,8 @@ body{
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0,1);
     font-size: 8vmin;
-    color: rgb(199, 16, 16);
-    background-color: #ffffc7
+    color: navy;
+    background-color: hsl(207, 75%, 60%);
 }
 #reset-btn{
     padding:1rem;
